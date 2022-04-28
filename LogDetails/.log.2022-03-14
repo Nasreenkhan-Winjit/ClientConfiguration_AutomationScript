@@ -1,0 +1,101 @@
+2022-03-14/14:34:56.313  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2022-03-14/14:34:56.346  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2022-03-14/14:34:59.675  INFO: wdm.WebDriverManager - Using chromedriver 99.0.4844.51 (since Chrome 99 is installed in your machine)
+2022-03-14/14:34:59.745  INFO: wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-03-14/14:35:00.380  INFO: online.Downloader - Downloading https://chromedriver.storage.googleapis.com/99.0.4844.51/chromedriver_win32.zip
+2022-03-14/14:35:01.357  INFO: online.Downloader - Extracting binary from compressed file chromedriver_win32.zip
+2022-03-14/14:35:01.589  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-14/14:35:11.607  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2022-03-14/14:35:12.180  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2022-03-14/14:35:46.470  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:35:46.534  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2022-03-14/14:35:46.707  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:35:46.881  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:35:46.955  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:35:47.171  INFO: listener.WebEventListener - Entered Value :surekha.jadhav@ram.co.za
+2022-03-14/14:35:47.175  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:35:47.193  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2022-03-14/14:35:47.267  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:35:47.374  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:35:47.434  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:35:47.591  INFO: listener.WebEventListener - Entered Value :Surekha@123123
+2022-03-14/14:35:47.592  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:35:47.611  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2022-03-14/14:35:47.659  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2022-03-14/14:35:47.746  INFO: listener.WebEventListener - after click on
+2022-03-14/14:36:07.991 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:36:09.162 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:36:39.321  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2022-03-14/14:36:39.544  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2022-03-14/14:36:39.913  INFO: listener.WebEventListener - after click on
+2022-03-14/14:36:39.920 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:36:40.506 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:36:40.684  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2022-03-14/14:36:40.768  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2022-03-14/14:36:41.010  INFO: listener.WebEventListener - after click on
+2022-03-14/14:36:41.011  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'Manage My Account ')]
+2022-03-14/14:36:41.401  INFO: listener.WebEventListener - After Switch to Window
+2022-03-14/14:37:01.434  INFO: listener.WebEventListener - Before Finding element: By.xpath: //input[@id='BilledTo']
+2022-03-14/14:37:01.539  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:37:01.679  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:37:01.713  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:37:01.790  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:37:01.836  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:37:02.010  INFO: listener.WebEventListener - Entered Value :CELW01
+2022-03-14/14:37:04.018  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@role='listitem'][1]//a[@class='v-list__tile v-list__tile--link theme--light']
+2022-03-14/14:37:04.094  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@role='listitem'][1]//a[@class='v-list__tile v-list__tile--link theme--light']
+2022-03-14/14:37:04.141  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@role='listitem'][1]//a[@class='v-list__tile v-list__tile--link theme--light']]
+2022-03-14/14:37:04.236  INFO: listener.WebEventListener - after click on
+2022-03-14/14:37:09.241  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[contains(text(),'Search')]
+2022-03-14/14:37:09.298  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[contains(text(),'Search')]
+2022-03-14/14:37:09.318  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[contains(text(),'Search')]
+2022-03-14/14:37:09.341  INFO: listener.WebEventListener - beforeClickOn xpath: //div[contains(text(),'Search')]]
+2022-03-14/14:37:09.432  INFO: listener.WebEventListener - after click on
+2022-03-14/14:37:14.441  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr
+2022-03-14/14:37:14.473  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr
+2022-03-14/14:37:14.495  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr[1]//td[3]
+2022-03-14/14:37:14.563  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr
+2022-03-14/14:37:14.586  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr[2]//td[3]
+2022-03-14/14:37:14.635  INFO: listener.WebEventListener - Before Finding element: By.xpath: //tbody//tr[2]//td[6]/a[1]/i[@class='mdi mdi-pencil mdi-18px']
+2022-03-14/14:37:14.663  INFO: listener.WebEventListener - beforeClickOn xpath: //tbody//tr[2]//td[6]/a[1]/i[@class='mdi mdi-pencil mdi-18px']]
+2022-03-14/14:37:15.320  INFO: listener.WebEventListener - after click on
+2022-03-14/14:37:20.334 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:37:20.511 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:37:20.570 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:39:36.369  INFO: wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2022-03-14/14:39:36.373  INFO: wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
+2022-03-14/14:39:36.914  INFO: wdm.WebDriverManager - Using chromedriver 99.0.4844.51 (since Chrome 99 is installed in your machine)
+2022-03-14/14:39:36.965  INFO: wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nasreenk\.m2\repository\webdriver\chromedriver\win32\99.0.4844.51\chromedriver.exe
+2022-03-14/14:39:41.403  INFO: listener.WebEventListener - Before Navigated to URL: data:,
+2022-03-14/14:39:41.911  INFO: listener.WebEventListener - After Navigated to URL: https://uat.app.ram.co.za/
+2022-03-14/14:40:18.105  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:40:18.139  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='email' or @type='text']
+2022-03-14/14:40:18.262  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:40:18.428  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:40:18.539  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:40:18.774  INFO: listener.WebEventListener - Entered Value :surekha.jadhav@ram.co.za
+2022-03-14/14:40:18.779  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:40:18.802  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::input[@type='password']
+2022-03-14/14:40:18.918  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:40:19.037  INFO: listener.WebEventListener - Entered Value :
+2022-03-14/14:40:19.110  INFO: listener.WebEventListener - Default Value :
+2022-03-14/14:40:19.255  INFO: listener.WebEventListener - Entered Value :Surekha@123123
+2022-03-14/14:40:19.257  INFO: listener.WebEventListener - Before Finding element: By.xpath: //form[1]
+2022-03-14/14:40:19.276  INFO: listener.WebEventListener - Before Finding element: By.xpath: //child::*[@type='submit']
+2022-03-14/14:40:19.302  INFO: listener.WebEventListener - beforeClickOn xpath: //form[1]]] 
+2022-03-14/14:40:19.361  INFO: listener.WebEventListener - after click on
+2022-03-14/14:40:39.559 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:40:40.448 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:41:10.560  INFO: listener.WebEventListener - Before Finding element: By.xpath: //div[@class='flex xs1 md1']
+2022-03-14/14:41:10.780  INFO: listener.WebEventListener - beforeClickOn xpath: //div[@class='flex xs1 md1']]
+2022-03-14/14:41:11.200  INFO: listener.WebEventListener - after click on
+2022-03-14/14:41:11.205 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:41:11.757 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:41:11.861  INFO: listener.WebEventListener - Before Finding element: By.cssSelector: .v-expansion-panel__container:nth-child(5) .panel-header
+2022-03-14/14:41:11.944  INFO: listener.WebEventListener - beforeClickOn css selector: .v-expansion-panel__container:nth-child(5) .panel-header]
+2022-03-14/14:41:12.176  INFO: listener.WebEventListener - after click on
+2022-03-14/14:41:12.177  INFO: listener.WebEventListener - Before Finding element: By.xpath: //ul[contains(@class,'v-expansion-panel')]/li[5]//u[contains(text(),'Manage My Account ')]
+2022-03-14/14:41:12.589  INFO: listener.WebEventListener - After Switch to Window
+2022-03-14/14:41:17.594 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:41:17.693 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
+2022-03-14/14:41:17.751 ERROR: allure.AllureLifecycle - Could not add attachment: no test is running
